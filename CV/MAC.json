@@ -27,6 +27,38 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "theSpaceUK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/23/3409e7ad-7bb4-4878-99a7-8f8b914fef06_thespaceuk-asset.jpeg",
+            "alt": "theSpaceUK asset.jpeg"
+          },
+          "URL": "https://www.thespaceuk.com/"
+        },
+        "roles": [
+          {
+            "name": "Sound && Lightning Tech & Lightning Designer",
+            "startDate": "2023-07-01",
+            "finishDate": "2023-09-01",
+            "challenges": [
+              {
+                "description": "\nFull-time\n\nEdimburgo, Escocia, Reino Unido · On-site\n\"Big\" - \"Studio\" venues @ Venue 38 (TripleX)\n\nActivity: Setting up every show tech along with the company techs or on our own\nwith the artists and operate the shows. \n\n(LX Desk / Zero088 // \nSound Desk / X32 // \nSoftwaare QLab / Adobe Audition)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Audition",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
